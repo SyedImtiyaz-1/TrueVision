@@ -45,3 +45,9 @@ This project implements a DeepFake Detection system using:
  ## Detection Page
 
  <img src="Assets/Images/detection.jpg" alt="Alt Text" width="500">
+
+## Our Team Members
+
+<a href="https://github.com/SyedImtiyaz-1/TrueVision/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=SyedImtiyaz-1/TrueVision" />
+</a>
