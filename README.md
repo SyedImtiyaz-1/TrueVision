@@ -41,3 +41,7 @@ This project implements a DeepFake Detection system using:
 ## Project Homepage
 
  <img src="Assets/Images/ReadmeImage.jpg" alt="Alt Text" width="500">
+
+ ## Detection Page
+
+ <img src="Assets/Images/detection.jpg" alt="Alt Text" width="500">
