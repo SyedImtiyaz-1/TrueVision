@@ -48,6 +48,6 @@ This project implements a DeepFake Detection system using:
 
 ## Our Team Members
 
-<a href="https://github.com/SyedImtiyaz-1/TrueVision/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=SyedImtiyaz-1/TrueVision" />
-</a>
+<p align="center"><a href="github.com/SyedImtiyaz-1/TrueVision/graphs/contributors">
+  <img src="https://contributors-img.web.app/image?repo=SyedImtiyaz-1/TrueVision" />
+</a></p>
