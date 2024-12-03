@@ -38,6 +38,6 @@ This project implements a DeepFake Detection system using:
 - Celeb-DF dataset
 - DeepFake++ detection implementation
 
-<a href="https://github.com/OWNER/REPO/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=OWNER/REPO" />
-</a>
+## Project Homepage
+
+ <img src="Assets/Images/ReadmeImage.jpg" alt="Alt Text" width="500">
