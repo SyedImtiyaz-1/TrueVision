@@ -24,7 +24,7 @@ This project implements a DeepFake Detection system using:
 
 ## Model Information
 
-- Celeb Dataset: [Celeb-DF](https://github.com/yuezunli/celeb-deepfakeforensics)
+- Dataset: [Celeb-DF](https://github.com/yuezunli/celeb-deepfakeforensics)
 - Model Download: [Google Drive](https://drive.google.com/drive/folders/1-zErGZ9T89TplQs3ws4QVRFlqE-ljW6l)
 - Training Reference: [DeepFake Detection Repository](https://github.com/abhijitjadhav1998/Deepfake_detection_using_deep_learning/tree/master/Model%20Creation)
 
